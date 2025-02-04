@@ -1,0 +1,18 @@
+body {
+  background: lightblue;
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  line-height: 1.5;
+}
